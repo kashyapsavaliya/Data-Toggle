@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data Toggle</string>
+    <string name="android_settings">com.android.settings</string>
+    <string name="android_settings_data_usage">com.android.settings.Settings$DataUsageSummaryActivity</string>
+</resources>
